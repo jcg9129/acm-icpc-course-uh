@@ -7,7 +7,7 @@
 6. [The Number of Windows](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_3_C)
 7. [Union of Rectangles](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_4_A)
 8. [Connected Components](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_D)
-9. [Matrix Chain Multiplication]http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B()
+9. [Matrix Chain Multiplication](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B)
 10. [Maximum Profit](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_D)
 11. [Areas on the Cross-Section Diagram](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_D)
 12. [Reconstruction of a Tree](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_D)
