@@ -11,12 +11,10 @@
 1. [Transformation](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_9_D)
 1. [Distance II](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_10_D)
 1. [Mysterious Light](https://agc001.contest.atcoder.jp/tasks/agc001_b)
-1. [Knot Puzzle](https://agc002.contest.atcoder.jp/tasks/agc002_c)
 1. [Ouths and Crosses](http://acm.timus.ru/problem.aspx?space=1&num=1195)
 1. [BBuBBBlesort!](https://agc003.contest.atcoder.jp/tasks/agc003_c)
 1. [Box and Ball](https://agc002.contest.atcoder.jp/tasks/agc002_b)
 1. [Maximum Sum](http://acm.timus.ru/problem.aspx?space=1&num=1146)
-1. [Airline Company](http://acm.timus.ru/problem.aspx?space=1&num=1040)
 
 ### Description
 
