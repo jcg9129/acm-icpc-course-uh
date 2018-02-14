@@ -16,7 +16,6 @@
 1. [BBuBBBlesort!](https://agc003.contest.atcoder.jp/tasks/agc003_c)
 1. [Box and Ball](https://agc002.contest.atcoder.jp/tasks/agc002_b)
 1. [Maximum Sum](http://acm.timus.ru/problem.aspx?space=1&num=1146)
-1. [Airline Company](http://acm.timus.ru/problem.aspx?space=1&num=1040)
 
 ### Description
 
