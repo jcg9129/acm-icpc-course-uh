@@ -21,6 +21,7 @@
 1. [Long Dominoes](http://codeforces.com/gym/100212/problem/E)
 1. [String Decomposition](http://codeforces.com/gym/100325/problem/A)
 1. [Hungry Queen](http://codeforces.com/gym/100340/problem/G)
+1. [Broadcast Stations](http://codeforces.com/gym/101667/problem/A)
 
 ## Geometry
 1. [Grid MST](https://open.kattis.com/problems/gridmst)
@@ -45,3 +46,5 @@
 1. [Minimal Cut Matrix](http://codeforces.com/gym/100153/problem/D)
 1. [Transportation Problem](http://codeforces.com/gym/100343/problem/G)
 1. [Minimum Vertex Cover](http://acm.timus.ru/problem.aspx?space=1&num=2038)
+1. [Cactusophobia](http://codeforces.com/gym/101675/problem/B)
+1. [Strongly Matchable](http://codeforces.com/gym/101667/problem/J)
