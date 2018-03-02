@@ -34,6 +34,9 @@
 1. [Secret Photo](http://codeforces.com/gym/100221/problem/G)
 1. [Boat Race](http://codeforces.com/gym/100340/problem/H)
 
+## Mathematics
+1. [Matchings](https://open.kattis.com/problems/matchings) FFT 2D
+
 ## Flows
 1. [Intelligence Quotient](http://codeforces.com/gym/100523/problem/I)
 1. [Roads](http://codeforces.com/gym/100197/problem/F)
@@ -51,3 +54,4 @@
 1. [Science!](https://open.kattis.com/problems/science) Disjoint maximum matching on bipartite graph
 1. [A graph problem](https://www.hackerrank.com/contests/w30/challenges/a-graph-problem) Max triangle density. Closure + Binary Search
 1. [Life Game](http://acm.hdu.edu.cn/showproblem.php?pid=4621) Closure
+1. [Goods transportation](http://codeforces.com/contest/724/problem/E) Maxflow-mincut nice application
