@@ -49,3 +49,4 @@
 1. [Cactusophobia](http://codeforces.com/gym/101675/problem/B)
 1. [Strongly Matchable](http://codeforces.com/gym/101667/problem/J)
 1. [Science!](https://open.kattis.com/problems/science) Disjoint maximum matching on bipartite graph
+1. [Life Game](http://acm.hdu.edu.cn/showproblem.php?pid=4621)
