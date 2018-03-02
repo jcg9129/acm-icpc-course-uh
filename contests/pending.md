@@ -49,4 +49,5 @@
 1. [Cactusophobia](http://codeforces.com/gym/101675/problem/B)
 1. [Strongly Matchable](http://codeforces.com/gym/101667/problem/J)
 1. [Science!](https://open.kattis.com/problems/science) Disjoint maximum matching on bipartite graph
-1. [A graph problem](https://www.hackerrank.com/contests/w30/challenges/a-graph-problem) Max triangle density. Closure problem
+1. [A graph problem](https://www.hackerrank.com/contests/w30/challenges/a-graph-problem) Max triangle density. Closure + Binary Search
+1. [Life Game](http://acm.hdu.edu.cn/showproblem.php?pid=4621) Closure
