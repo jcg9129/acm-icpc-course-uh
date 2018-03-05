@@ -40,4 +40,9 @@
 1. [Matchings](https://open.kattis.com/problems/matchings) FFT 2D
 
 ## Flows
+1. [Programming Team](https://open.kattis.com/problems/programmingteam)
+1. [Transportation Problem](http://codeforces.com/gym/100343/problem/G)
+1. [Gas Problem](http://codeforces.com/gym/100222/problem/D)
 
+## Other
+1. [Almost Union-Find](https://open.kattis.com/problems/almostunionfind)
