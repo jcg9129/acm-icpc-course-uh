@@ -13,7 +13,6 @@
 1. [Matrix Multiplication](http://codeforces.com/gym/100324/problem/G)
 1. [Word Morpher](http://codeforces.com/gym/100325/problem/G)
 1. [Ear Decomposition](http://codeforces.com/gym/100340/problem/B)
-1. [YATP](https://open.kattis.com/problems/yatp) (Centroid decomposition + convex hull trick)
 1. [Roads](http://codeforces.com/gym/100197/problem/F) hungarian dual
 
 ## Divide and Conquer, DP and relatives
@@ -23,7 +22,6 @@
 1. [Long Dominoes](http://codeforces.com/gym/100212/problem/E)
 1. [String Decomposition](http://codeforces.com/gym/100325/problem/A)
 1. [Hungry Queen](http://codeforces.com/gym/100340/problem/G)
-1. [Broadcast Stations](http://codeforces.com/gym/101667/problem/A)
 
 ## Geometry
 1. [Grid MST](https://open.kattis.com/problems/gridmst)
