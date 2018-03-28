@@ -38,3 +38,4 @@ Muchos de estos problemas admiten más de una optimización diferente.
 1. [Travel (High)](http://codeforces.com/gym/100377/problem/L)
 1. [Petya and average (High)](http://codeforces.com/gym/100377/problem/M)
 1. [Deputies on the tree (High)](http://codeforces.com/gym/100377/problem/N)
+1. [Karen and Supermarket](http://codeforces.com/contest/815/problem/C)
