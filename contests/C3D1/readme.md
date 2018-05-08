@@ -9,7 +9,6 @@
 1. [Dynamic GCD](https://www.codechef.com/problems/DGCD)
 1. [Digit Tree](http://codeforces.com/problemset/problem/716/E)
 1. [Ciel the Commander](http://codeforces.com/contest/321/problem/C)
-1. [And or Max](https://csacademy.com/contest/round-70/task/and-or-max/)
 1. [Query on a tree IV](http://www.spoj.com/problems/QTREE4/)
 1. [Query on a tree VI](http://www.spoj.com/problems/QTREE6/)
 1. [Archaeology](http://codeforces.com/problemset/problem/176/E)
