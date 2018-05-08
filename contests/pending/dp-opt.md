@@ -13,6 +13,7 @@ Muchos de estos problemas admiten más de una optimización diferente.
 ## Divide and Conquer / Knuth
 
 ## Lagrange
+1. [Or problem](https://csacademy.com/contest/round-56/task/or-problem/)
 
 ## Other
 1. [YATP](https://open.kattis.com/problems/yatp)
