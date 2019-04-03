@@ -17,10 +17,7 @@
 
 ## Divide and Conquer, DP and relatives
 1. [Sign on Fence](http://codeforces.com/contest/484/problem/E) Busqueda binaria en paralelo
-1. [Password](http://codeforces.com/gym/101174/problem/E) Aho-Corasik + DP
 1. [Spanning Tree Fraction](https://www.hackerrank.com/contests/w31/challenges/spanning-tree-fraction)
-1. [Long Dominoes](http://codeforces.com/gym/100212/problem/E)
-1. [String Decomposition](http://codeforces.com/gym/100325/problem/A)
 1. [Hungry Queen](http://codeforces.com/gym/100340/problem/G)
 
 ## Geometry
