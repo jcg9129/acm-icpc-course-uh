@@ -10,3 +10,6 @@
 1. [Fibonacci Subsequence](https://codeforces.com/gym/100204/problem/C)
 1. [Or Plus Max](https://arc100.contest.atcoder.jp/tasks/arc100_c)
 1. [Killing Monsters](https://www.codechef.com/problems/MONSTER)
+1. [NarrowRectangles](https://arc070.contest.atcoder.jp/tasks/arc070_c)
+1. [Group Projects](https://codeforces.com/contest/626/problem/F)
+1. [Ant Man](https://codeforces.com/contest/704/problem/B)
